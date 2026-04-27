@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is unsupervised domain adaptation?",
+    "ground_truth": "Unsupervised domain adaptation is a machine learning technique that transfers knowledge from a labeled source domain to an unlabeled target domain without requiring target labels.",
+    "relevant_docs": []
+  },
+  {
+    "question": "How does RAG improve LLM accuracy?",
+    "ground_truth": "RAG improves LLM accuracy by grounding responses in retrieved external documents, reducing hallucinations and enabling the model to answer questions about domain-specific or up-to-date information.",
+    "relevant_docs": []
+  },
+  {
+    "question": "What is FAISS used for?",
+    "ground_truth": "FAISS is a library for efficient similarity search over dense vector embeddings, enabling fast nearest-neighbour retrieval in large-scale datasets.",
+    "relevant_docs": []
+  }
+]

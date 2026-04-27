@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "rag-ai-assistant"
+version = "1.0.0"
+description = "Production-ready RAG system with FastAPI, FAISS, and OpenAI"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Ons Abderrahim", email = "abderrahimons99@gmail.com" }]
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+addopts = "-v --tb=short"
+
+[tool.coverage.run]
+source = ["app"]
+omit = ["tests/*", "scripts/*"]
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = false
