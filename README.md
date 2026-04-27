@@ -406,5 +406,5 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 **Ons Abderrahim** — ML Engineer & AI Researcher
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-onsabderrahim.github.io-ff1a8c?style=flat-square)](https://onsabderrahim.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-onsabderrahim.github.io-ff1a8c?style=flat-square)](https://ons-abderrahim.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ons--abderrahim-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ons-abderrahim)
