@@ -394,11 +394,6 @@ pytest tests/ -v --cov=app --cov-report=term-missing
 - [ ] Web UI (Streamlit)
 - [ ] Fine-tuned reranker
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
 
 ---
 
